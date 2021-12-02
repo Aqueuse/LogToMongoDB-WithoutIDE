@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Aqueuse
+Main-Class: logToMongoDB.Main
+Class-Path: bson-4.4.0.jar mongodb-driver-core-4.4.0.jar mongodb-driver-sync-4.4.0.jar slf4j-api-1.7.9.jar slf4j-simple-1.7.9.jar
